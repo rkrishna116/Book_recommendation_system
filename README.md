@@ -2,4 +2,4 @@
 
 Data Source - https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
-Incomplete - Yet to complete
+Pending Completion
